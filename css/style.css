@@ -68,9 +68,8 @@
     padding-right: 5px
 }
 
-
 .pull-left {
-    float:left;
+    float: left;
     margin-right: .3em
 }
 
@@ -107,6 +106,11 @@
 	text-align: center;
 	align-items: center;
 	*/
+}
+
+.container-icons {
+    max-width: 85%;
+    margin: 0 auto;
 }
 
 .container-center {
